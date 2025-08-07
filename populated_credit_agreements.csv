@@ -1,0 +1,397 @@
+agreement_id,cam_id,application_id,client_id,client_name,template_id,template_name,loan_type,loan_amount,populated_agreement_content,generation_date,status,review_required,compliance_check
+AGR-00001,CAM-00001,LOAN-00001,CL-000026,Alexei Smith,TEMPLATE-002,Personal Loan Agreement,mortgage,425000,"
+PERSONAL LOAN AGREEMENT
+
+Agreement Date: July 27, 2025
+Lender: Citi Private Bank
+Borrower: Alexei Smith
+
+LOAN TERMS:
+- Loan Amount: $425,000
+- Annual Percentage Rate: 5.56%
+- Term: 20 months
+- Monthly Payment: $3,176
+- Total Amount to be Repaid: ${{total_repayment}}
+
+BORROWER PROFILE:
+- Full Name: Alexei Smith
+- Social Security Number: {{ssn}}
+- Date of Birth: {{date_of_birth}}
+- Current Address: 123 Main Street, New York, NY 10001
+- Employment Status: Employed
+- Monthly Income: ${{monthly_income}}
+- Debt-to-Income Ratio: 35%
+
+REPAYMENT SCHEDULE:
+First Payment Due: {{first_payment_date}}
+Subsequent payments due monthly on the 1st of each month.
+
+DEFAULT PROVISIONS:
+A payment is considered late if not received within 15 days of the due date.
+Late fee: ${{late_fee}} or {{late_fee_percentage}}% of payment amount, whichever is greater.
+
+CONDITIONS:
+nan
+
+By signing below, both parties agree to the terms of this loan agreement.
+
+Borrower Signature: _________________ Date: _______
+Lender Signature: ___________________ Date: _______
+",2025-07-27 16:48:55,generated,True,pending
+AGR-00002,CAM-00002,LOAN-00002,CL-000087,Ronald Nwosu,TEMPLATE-001,Standard Mortgage Agreement,mortgage,425000,"
+MORTGAGE LOAN AGREEMENT
+
+This Mortgage Loan Agreement (""Agreement"") is entered into on July 27, 2025 between Citi Private Bank (""Lender"") and Ronald Nwosu (""Borrower"").
+
+LOAN DETAILS:
+- Principal Amount: $425,000
+- Interest Rate: 7.17% per annum
+- Loan Term: 20 years
+- Monthly Payment: $1,658
+
+BORROWER INFORMATION:
+- Name: Ronald Nwosu
+- Address: 123 Main Street, New York, NY 10001
+- Employment: Employed
+- Annual Income: $135,000
+- Credit Score: 720
+
+PROPERTY INFORMATION:
+- Property Address: 789 Property Lane, New York, NY 10003
+- Property Value: $531,250
+- Down Payment: $85,000
+- Loan-to-Value Ratio: 80%
+
+TERMS AND CONDITIONS:
+1. The Borrower agrees to repay the loan amount with interest as specified above.
+2. Monthly payments of $1,658 are due on the 1st of each month.
+3. The property serves as collateral for this loan.
+4. Default occurs if payment is more than 15 days late.
+
+CONDITIONS PRECEDENT:
+nan
+
+SIGNATURES:
+Borrower: _________________________ Date: _________
+Lender: ___________________________ Date: _________
+
+This agreement is governed by the laws of New York.
+",2025-07-27 16:48:55,generated,True,pending
+AGR-00003,CAM-00003,LOAN-00003,CL-000042,Jacob Wisniewski,TEMPLATE-003,Business Line of Credit Agreement,mortgage,425000,"
+BUSINESS LINE OF CREDIT AGREEMENT
+
+This Line of Credit Agreement is made on July 27, 2025 between Citi Private Bank and Jacob Wisniewski LLC.
+
+CREDIT FACILITY DETAILS:
+- Credit Limit: $425,000
+- Interest Rate: 5.71% (Variable)
+- Draw Period: {{draw_period}} months
+- Repayment Period: {{repayment_period}} months
+
+BUSINESS INFORMATION:
+- Business Name: Jacob Wisniewski LLC
+- Business Address: 456 Business Ave, New York, NY 10002
+- Tax ID: {{tax_id}}
+- Business Type: {{business_type}}
+- Years in Business: {{years_in_business}}
+- Annual Revenue: ${{annual_revenue}}
+
+AUTHORIZED SIGNATORY:
+- Name: {{authorized_signatory}}
+- Title: {{signatory_title}}
+- Personal Guarantee: {{personal_guarantee}}
+
+TERMS:
+1. Interest accrues only on outstanding balances
+2. Minimum monthly payment: {{minimum_payment_percentage}}% of outstanding balance
+3. Credit line expires on {{expiration_date}}
+4. Annual fee: ${{annual_fee}}
+
+COVENANTS:
+- Maintain minimum debt service coverage ratio of {{min_dscr}}
+- Provide quarterly financial statements
+- Maintain business insurance coverage
+
+CONDITIONS PRECEDENT:
+['Recent pay stubs for income verification', 'Minimum 10% down payment', 'Proof of funds for closing costs', 'Property appraisal']
+
+BUSINESS SIGNATURE: _________________ DATE: _______
+LENDER SIGNATURE: ___________________ DATE: _______
+",2025-07-27 16:48:55,generated,True,pending
+AGR-00004,CAM-00004,LOAN-00004,CL-000073,William Chen,TEMPLATE-003,Business Line of Credit Agreement,mortgage,425000,"
+BUSINESS LINE OF CREDIT AGREEMENT
+
+This Line of Credit Agreement is made on July 27, 2025 between Citi Private Bank and William Chen LLC.
+
+CREDIT FACILITY DETAILS:
+- Credit Limit: $425,000
+- Interest Rate: 6.23% (Variable)
+- Draw Period: {{draw_period}} months
+- Repayment Period: {{repayment_period}} months
+
+BUSINESS INFORMATION:
+- Business Name: William Chen LLC
+- Business Address: 456 Business Ave, New York, NY 10002
+- Tax ID: {{tax_id}}
+- Business Type: {{business_type}}
+- Years in Business: {{years_in_business}}
+- Annual Revenue: ${{annual_revenue}}
+
+AUTHORIZED SIGNATORY:
+- Name: {{authorized_signatory}}
+- Title: {{signatory_title}}
+- Personal Guarantee: {{personal_guarantee}}
+
+TERMS:
+1. Interest accrues only on outstanding balances
+2. Minimum monthly payment: {{minimum_payment_percentage}}% of outstanding balance
+3. Credit line expires on {{expiration_date}}
+4. Annual fee: ${{annual_fee}}
+
+COVENANTS:
+- Maintain minimum debt service coverage ratio of {{min_dscr}}
+- Provide quarterly financial statements
+- Maintain business insurance coverage
+
+CONDITIONS PRECEDENT:
+nan
+
+BUSINESS SIGNATURE: _________________ DATE: _______
+LENDER SIGNATURE: ___________________ DATE: _______
+",2025-07-27 16:48:55,generated,True,pending
+AGR-00005,CAM-00005,LOAN-00005,CL-000023,Boris Allen,TEMPLATE-001,Standard Mortgage Agreement,mortgage,425000,"
+MORTGAGE LOAN AGREEMENT
+
+This Mortgage Loan Agreement (""Agreement"") is entered into on July 27, 2025 between Citi Private Bank (""Lender"") and Boris Allen (""Borrower"").
+
+LOAN DETAILS:
+- Principal Amount: $425,000
+- Interest Rate: 7.26% per annum
+- Loan Term: 20 years
+- Monthly Payment: $2,328
+
+BORROWER INFORMATION:
+- Name: Boris Allen
+- Address: 123 Main Street, New York, NY 10001
+- Employment: Employed
+- Annual Income: $285,000
+- Credit Score: 680
+
+PROPERTY INFORMATION:
+- Property Address: 789 Property Lane, New York, NY 10003
+- Property Value: $531,250
+- Down Payment: $85,000
+- Loan-to-Value Ratio: 85%
+
+TERMS AND CONDITIONS:
+1. The Borrower agrees to repay the loan amount with interest as specified above.
+2. Monthly payments of $2,328 are due on the 1st of each month.
+3. The property serves as collateral for this loan.
+4. Default occurs if payment is more than 15 days late.
+
+CONDITIONS PRECEDENT:
+nan
+
+SIGNATURES:
+Borrower: _________________________ Date: _________
+Lender: ___________________________ Date: _________
+
+This agreement is governed by the laws of New York.
+",2025-07-27 16:48:55,generated,True,pending
+AGR-00006,CAM-00006,LOAN-00006,CL-000023,Boris Allen,TEMPLATE-003,Business Line of Credit Agreement,mortgage,425000,"
+BUSINESS LINE OF CREDIT AGREEMENT
+
+This Line of Credit Agreement is made on July 27, 2025 between Citi Private Bank and Boris Allen LLC.
+
+CREDIT FACILITY DETAILS:
+- Credit Limit: $425,000
+- Interest Rate: 7.2% (Variable)
+- Draw Period: {{draw_period}} months
+- Repayment Period: {{repayment_period}} months
+
+BUSINESS INFORMATION:
+- Business Name: Boris Allen LLC
+- Business Address: 456 Business Ave, New York, NY 10002
+- Tax ID: {{tax_id}}
+- Business Type: {{business_type}}
+- Years in Business: {{years_in_business}}
+- Annual Revenue: ${{annual_revenue}}
+
+AUTHORIZED SIGNATORY:
+- Name: {{authorized_signatory}}
+- Title: {{signatory_title}}
+- Personal Guarantee: {{personal_guarantee}}
+
+TERMS:
+1. Interest accrues only on outstanding balances
+2. Minimum monthly payment: {{minimum_payment_percentage}}% of outstanding balance
+3. Credit line expires on {{expiration_date}}
+4. Annual fee: ${{annual_fee}}
+
+COVENANTS:
+- Maintain minimum debt service coverage ratio of {{min_dscr}}
+- Provide quarterly financial statements
+- Maintain business insurance coverage
+
+CONDITIONS PRECEDENT:
+nan
+
+BUSINESS SIGNATURE: _________________ DATE: _______
+LENDER SIGNATURE: ___________________ DATE: _______
+",2025-07-27 16:48:55,generated,True,pending
+AGR-00007,CAM-00007,LOAN-00007,CL-000078,Patrick Monroe,TEMPLATE-001,Standard Mortgage Agreement,mortgage,425000,"
+MORTGAGE LOAN AGREEMENT
+
+This Mortgage Loan Agreement (""Agreement"") is entered into on July 27, 2025 between Citi Private Bank (""Lender"") and Patrick Monroe (""Borrower"").
+
+LOAN DETAILS:
+- Principal Amount: $425,000
+- Interest Rate: 7.25% per annum
+- Loan Term: 20 years
+- Monthly Payment: $1,999
+
+BORROWER INFORMATION:
+- Name: Patrick Monroe
+- Address: 123 Main Street, New York, NY 10001
+- Employment: Employed
+- Annual Income: $135,000
+- Credit Score: 742
+
+PROPERTY INFORMATION:
+- Property Address: 789 Property Lane, New York, NY 10003
+- Property Value: $531,250
+- Down Payment: $85,000
+- Loan-to-Value Ratio: 80%
+
+TERMS AND CONDITIONS:
+1. The Borrower agrees to repay the loan amount with interest as specified above.
+2. Monthly payments of $1,999 are due on the 1st of each month.
+3. The property serves as collateral for this loan.
+4. Default occurs if payment is more than 15 days late.
+
+CONDITIONS PRECEDENT:
+['Recent pay stubs for last 3 months', 'Professional property appraisal', 'Proof of down payment funds']
+
+SIGNATURES:
+Borrower: _________________________ Date: _________
+Lender: ___________________________ Date: _________
+
+This agreement is governed by the laws of New York.
+",2025-07-27 16:48:55,generated,True,pending
+AGR-00008,CAM-00008,LOAN-00008,CL-000011,Brenda Wright,TEMPLATE-002,Personal Loan Agreement,mortgage,425000,"
+PERSONAL LOAN AGREEMENT
+
+Agreement Date: July 27, 2025
+Lender: Citi Private Bank
+Borrower: Brenda Wright
+
+LOAN TERMS:
+- Loan Amount: $425,000
+- Annual Percentage Rate: 6.78%
+- Term: 20 months
+- Monthly Payment: $3,227
+- Total Amount to be Repaid: ${{total_repayment}}
+
+BORROWER PROFILE:
+- Full Name: Brenda Wright
+- Social Security Number: {{ssn}}
+- Date of Birth: {{date_of_birth}}
+- Current Address: 123 Main Street, New York, NY 10001
+- Employment Status: Employed
+- Monthly Income: ${{monthly_income}}
+- Debt-to-Income Ratio: 35%
+
+REPAYMENT SCHEDULE:
+First Payment Due: {{first_payment_date}}
+Subsequent payments due monthly on the 1st of each month.
+
+DEFAULT PROVISIONS:
+A payment is considered late if not received within 15 days of the due date.
+Late fee: ${{late_fee}} or {{late_fee_percentage}}% of payment amount, whichever is greater.
+
+CONDITIONS:
+nan
+
+By signing below, both parties agree to the terms of this loan agreement.
+
+Borrower Signature: _________________ Date: _______
+Lender Signature: ___________________ Date: _______
+",2025-07-27 16:48:55,generated,True,pending
+AGR-00009,CAM-00009,LOAN-00009,CL-000096,Nikolai Ramirez,TEMPLATE-002,Personal Loan Agreement,mortgage,425000,"
+PERSONAL LOAN AGREEMENT
+
+Agreement Date: July 27, 2025
+Lender: Citi Private Bank
+Borrower: Nikolai Ramirez
+
+LOAN TERMS:
+- Loan Amount: $425,000
+- Annual Percentage Rate: 5.28%
+- Term: 30 months
+- Monthly Payment: $2,585
+- Total Amount to be Repaid: ${{total_repayment}}
+
+BORROWER PROFILE:
+- Full Name: Nikolai Ramirez
+- Social Security Number: {{ssn}}
+- Date of Birth: {{date_of_birth}}
+- Current Address: 123 Main Street, New York, NY 10001
+- Employment Status: Employed
+- Monthly Income: ${{monthly_income}}
+- Debt-to-Income Ratio: 35%
+
+REPAYMENT SCHEDULE:
+First Payment Due: {{first_payment_date}}
+Subsequent payments due monthly on the 1st of each month.
+
+DEFAULT PROVISIONS:
+A payment is considered late if not received within 15 days of the due date.
+Late fee: ${{late_fee}} or {{late_fee_percentage}}% of payment amount, whichever is greater.
+
+CONDITIONS:
+nan
+
+By signing below, both parties agree to the terms of this loan agreement.
+
+Borrower Signature: _________________ Date: _______
+Lender Signature: ___________________ Date: _______
+",2025-07-27 16:48:55,generated,True,pending
+AGR-00010,CAM-00010,LOAN-00010,CL-000001,Sarah Ramirez,TEMPLATE-002,Personal Loan Agreement,mortgage,450000,"
+PERSONAL LOAN AGREEMENT
+
+Agreement Date: July 27, 2025
+Lender: Citi Private Bank
+Borrower: Sarah Ramirez
+
+LOAN TERMS:
+- Loan Amount: $450,000
+- Annual Percentage Rate: 4.87%
+- Term: 15 months
+- Monthly Payment: $3,252
+- Total Amount to be Repaid: ${{total_repayment}}
+
+BORROWER PROFILE:
+- Full Name: Sarah Ramirez
+- Social Security Number: {{ssn}}
+- Date of Birth: {{date_of_birth}}
+- Current Address: 123 Main Street, New York, NY 10001
+- Employment Status: Employed
+- Monthly Income: ${{monthly_income}}
+- Debt-to-Income Ratio: 35%
+
+REPAYMENT SCHEDULE:
+First Payment Due: {{first_payment_date}}
+Subsequent payments due monthly on the 1st of each month.
+
+DEFAULT PROVISIONS:
+A payment is considered late if not received within 15 days of the due date.
+Late fee: ${{late_fee}} or {{late_fee_percentage}}% of payment amount, whichever is greater.
+
+CONDITIONS:
+['Property appraisal verification', '3 months bank statements', 'Proof of 6 months reserves', 'Current pay stubs']
+
+By signing below, both parties agree to the terms of this loan agreement.
+
+Borrower Signature: _________________ Date: _______
+Lender Signature: ___________________ Date: _______
+",2025-07-27 16:48:55,generated,True,pending
